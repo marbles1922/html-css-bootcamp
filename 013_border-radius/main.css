@@ -1,0 +1,25 @@
+div {
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    border-radius: 100%;
+    background-image: url("../008_relative-vs-absolute-urls/puppy.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    border: 10px groove orange;
+    border-radius: 100%;
+}
+
+.dogone {
+    border: 10px dashed orange;
+}
+.dogtwo {
+    border: 10px dotted orange;
+}
+
+.dogthree {
+    border: 10px double orange;
+}
