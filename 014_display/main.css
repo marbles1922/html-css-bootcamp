@@ -8,9 +8,10 @@ div {
 
 img {
     border: 10px groove orange;
-    border-radius: 100%;
     padding: 15px;
     margin: 10px;
+    width: 200px;
+    box-sizing: border-box;
 }
 
 .dogone {
